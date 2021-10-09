@@ -7,9 +7,9 @@ module.exports = {
         xs: { min: "450px" },
       },
       colors: {
-        primary: ["#00598F", "#21345E", "#1C274B"],
-        secondary: ["#E00000"],
-        tertiary: ["#F9C200"],
+        primary: ["#083041", "#67A2CD", "#67A2CD"],
+        secondary: ["#083041"],
+        tertiary: ["#67A2CD"],
         whatsapp: "#25D366",
         facebook: "#4267B2",
         twitter: "#1DA1F2",

@@ -26,7 +26,8 @@ code {
 }
 
 .bg-img {
-  background-image: url("https://tarjeta-presentacion.vercel.app/img/banner.jpeg");
+  /* background-image: url("https://tarjeta-presentacion.vercel.app/img/banner.png"); */
   background-size: cover;
   background-position: top;
+  @apply bg-primary-1;
 }
